@@ -1,0 +1,15 @@
+.mytable{
+
+    height: 160px;width: 290px;color:yellow;font-size: xx-large;
+    background-color: black;
+    border-width: 10px thick;
+    border-style: dashed;
+  
+    -webkit-box-shadow: 2px -1px 20px 7px rgba(240,91,65,1);
+    -moz-box-shadow: 2px -1px 20px 7px rgba(240,91,65,1);
+    box-shadow: 2px -1px 20px 7px rgba(240,91,65,1);
+    
+}
+
+
+
